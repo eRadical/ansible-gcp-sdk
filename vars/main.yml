@@ -1,0 +1,5 @@
+---
+gcp_sdk_yum_repository: https://packages.cloud.google.com/yum/repos/cloud-sdk-el7-x86_64
+gcp_sdk_gpg_keys:
+  - https://packages.cloud.google.com/yum/doc/yum-key.gpg
+  - https://packages.cloud.google.com/yum/doc/rpm-package-key.gpg
